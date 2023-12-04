@@ -1,1 +1,6 @@
 /secrets.json
+venv/
+*.pickle
+__pycache__/
+alpaca_sock_screener/__pycache__
+doc/

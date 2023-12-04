@@ -10,3 +10,5 @@ duckduckgo-search
 alpaca_trade_api
 pandas_market_calendars
 tabulate
+langchain-experimental
+openai

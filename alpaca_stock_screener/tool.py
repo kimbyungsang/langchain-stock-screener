@@ -1,5 +1,6 @@
 # Import things that are needed generically
-from langchain import LLMMathChain, SerpAPIWrapper
+from langchain.chains import LLMMathChain
+from langchain.utilities import SerpAPIWrapper
 from langchain.agents import AgentType, initialize_agent
 from langchain.chat_models import ChatOpenAI
 from langchain.tools import BaseTool, StructuredTool, Tool, tool
